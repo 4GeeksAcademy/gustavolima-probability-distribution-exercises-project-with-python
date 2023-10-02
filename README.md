@@ -2,20 +2,18 @@
 # Probability Distribution Exercises with Python
 <!-- endhide -->
 
-Inside this repository, you will find a file called `./notebook/problems.ipynb` with the exercises you need to finish to complete it.
+Probability Distribution is another important subject to get deeper knowledge of data you need to work with, and in many times have a better perception of possible outcomes and how good and bad your data is 📊
 
-## 🌱 How to start this project
+## 📒 Key Takes
 
-This project and its repository comes with the necessary files to start working.
+The goal of this exercise lays down on understand what kind of distributions exist when we talk probability and how to get this information out of the data you are presented. 
+Essential for this task, and as shown in the Jupyter Notebooks is understanding Matplotlib / Seaborn to plot graphics representing the data in their limits like this Binomial Distribution of data 📉
 
-1. Make a fork of [this repository](https://github.com/4GeeksAcademy/probability-distribution-exercises-project-with-python) into your github account.
-2. Open the recently created fork repository using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command.
-3. Once it has finished opening you can go ahead and open the `problems.ipynb` file and start solving each exercise inside the notebook.
+![Binomial Data Distribution](https://github.com/4GeeksAcademy/gustavolima-probability-distribution-exercises-project-with-python/blob/main/assets/binomialplot.png)
 
-## 🚛 How to deliver this project
+At the same time SciPy is another important library to acknowledge since it helps laydown your data. 
+And of course you'll need to understand what kind of Distributions you can find and work with in the wild, which is exactly what this exercise also helps, vizualise the data in plots to identify trends, median, etc... 🧮
+Here I just explored the more common Distributions as Binomial, the Normal / Gaussian, Uniform. 
 
-Once you are finished solving the exercises make sure to commit your changes, push to your repository fork and go to 4Geeks.com to upload the repository link.
 
-## Solutions
 
-We also incorporated a `./notebook/solutions.ipynb` file that we strongly suggest you only use if you are stuck for more than 30min or if you have already finished and want to compare it with your approach.
